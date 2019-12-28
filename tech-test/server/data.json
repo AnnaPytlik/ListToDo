@@ -1,0 +1,8 @@
+{ 
+    "tasks":[
+    { "title": "Install Angular CLI", "isDone": true },
+    { "title": "Style app", "isDone": true },
+    { "title": "Finish service functionality", "isDone": false },
+    { "title": "Setup API", "isDone": false }
+  ]
+    }
